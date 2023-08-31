@@ -20,5 +20,5 @@ another example, starting from 15,
 find the smallest initial value *n* such that the "Collatz sequence" generated has 101 terms.
 
 ## Info
-* Suggested language: Haskell, Python, C
+* Topics: (While) loops, modulo operator.
 * Difficulty: Easy

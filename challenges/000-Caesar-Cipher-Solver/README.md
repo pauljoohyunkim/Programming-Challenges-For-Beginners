@@ -18,5 +18,5 @@ As you can see, the letter *T* was mapped to *V*, *h* was mapped to *j*, etc.
 determine what famous historical document the [ciphertext.txt](ciphertext.txt) is.
 
 ## Info
-* Suggested language: Any programming language capable of IO.
-* Difficulty: Easy if higher level language, medium if lower level language.
+* Topics : File IO, modulo operator, ASCII
+* Difficulty: Easy, but implementation and design might be a bit tricky.

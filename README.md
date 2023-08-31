@@ -5,4 +5,4 @@ A few programming challenges that one could attempt in various languages
 In the [challenges](challenges) directory,
 you will find a list of simple challenges that can be done.
 
-There will be info on each of the challenges on which languages are suggested and the difficulties.
+There will be info for each challenge regarding the relevant topics and difficulties.
